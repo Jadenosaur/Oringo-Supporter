@@ -1,6 +1,6 @@
 # Oringo-Supporter
 
-Features
+Features:
 
 
 Macros (Foraging, Netherwart, etc)
